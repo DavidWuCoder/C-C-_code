@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\新建文件夹\visualstudio\1\Project17\Project17\源.cpp(276): warning C4715: “change”: 不是所有的控件路径都返回值
+  Project17.vcxproj -> D:\新建文件夹\visualstudio\1\Project17\Debug\Project17.exe
